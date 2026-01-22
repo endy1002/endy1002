@@ -1,9 +1,13 @@
-# Hi there, I'm Endy 👋
+<h1 align="center">Hi there, I'm Endy 👋</h1>
 
-**3rd Year Computer Science Student • Backend & Software Engineer**  
-Passionate about building scalable systems and clean software
+<p align="center">
+  <b>3rd Year Computer Science Student • Backend & Software Engineer</b><br/>
+  Passionate about building systems and softwares
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/dat-le-163212205/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/dat-le-163212205/">LinkedIn</a>
+</p>
 
 ---
 
